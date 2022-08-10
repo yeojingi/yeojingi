@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Certificates 
 
-|         |         |
+|   1      | 2        |
 | -------------- | -------------- |
-| ![수료증1](https://raw.githubusercontent.com/yeojingi/yeojingi/main/images/nand2tetris_1.png)    | ![수료증2](https://raw.githubusercontent.com/yeojingi/yeojingi/main/images/nand2tetris_2.png)    |
 | nand2tetris part I (Coursera) | nand2tetris part II (Coursera) |
+| ![수료증1](https://raw.githubusercontent.com/yeojingi/yeojingi/main/images/nand2tetris_1.png)    | ![수료증2](https://raw.githubusercontent.com/yeojingi/yeojingi/main/images/nand2tetris_2.png)    |
